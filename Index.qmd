@@ -1,0 +1,62 @@
+---
+title: "CITI Training and Certificate"
+author: "Kevin Bachez"
+date: "2026-10-19"
+format:
+  html:
+    toc: true
+    number-sections: true
+    embed-resources: true
+    theme: cosmo
+---
+
+# Introduction
+
+The Collaborative Institutional Training Initiative (CITI) Program provides training on research ethics, responsible research practices, and the protection of human subjects.
+
+As part of the Cal Poly Pomona research requirements, I completed the College of Business Administration CITI training, which focuses on ethical considerations when conducting research involving human participants.
+
+This report documents the training requirements and provides evidence of completion through the CITI training certificate.
+
+# CITI Training Overview
+
+The CITI training introduces important principles related to conducting ethical research and protecting research participants.
+
+The College of Business Administration training includes topics such as:
+
+- Introduction to human subjects research
+- Ethical principles and research responsibilities
+- Protection of research participants
+- Informed consent and confidentiality
+- Data collection in other countries
+- Online research and data collection
+
+These topics are relevant to marketing research because researchers must ensure that participants are treated ethically and that their personal information is protected.
+
+# Certificate of Completion
+
+The following certificate serves as documentation of my successful completion of the required CITI training.
+
+![CITI Training Certificate](Images/citi-certificate.pdf)
+
+A PDF copy of the certificate is also available in the Appendix.
+
+# Conclusion
+
+Completing the CITI training provides a foundation for understanding ethical practices when conducting research involving human subjects.
+
+The training emphasizes the importance of informed consent, participant confidentiality, and responsible data collection.
+
+These principles are essential when conducting marketing research, particularly when collecting survey responses and analyzing consumer information.
+
+# Appendix
+
+## A. CITI Training Certificate
+
+The official CITI training certificate is available through the following link:
+
+[View CITI Training Certificate (PDF)](Images/citi-certificate.pdf)
+
+## D. Published Report
+
+[View Published Quarto Report](<https://github.com/kebachez/IC8-2-CITI-Certification.git>)
