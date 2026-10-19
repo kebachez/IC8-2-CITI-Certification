@@ -51,12 +51,16 @@ These principles are essential when conducting marketing research, particularly 
 
 # Appendix
 
-## A. CITI Training Certificate
+## CITI Training Certificate
 
 The official CITI training certificate is available through the following link:
 
 [View CITI Training Certificate (PDF)](Images/citi-certificate.pdf)
 
-## D. Published Report
+## GitHub Published Report
 
 [View Published Quarto Report](<https://github.com/kebachez/IC8-2-CITI-Certification.git>)
+
+## GitHub Pages
+
+[View Published Quarto Page](https://kebachez.github.io/IC8-2-CITI-Certification/)
